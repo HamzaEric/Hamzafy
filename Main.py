@@ -9,7 +9,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url('https://i.imgur.com/t31klTW.jpeg');
+            background-image: url('https://i.imgur.com/hhctB94.jpeg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
